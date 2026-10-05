@@ -61,19 +61,24 @@ After importing the data into Power BI, an interactive dashboard was developed t
 The dashboard can serve as a foundation for exploring:
 
 <img width="1322" height="742" alt="Screenshot 2026-10-05 213618" src="https://github.com/user-attachments/assets/5fd8b722-3d10-4b65-a41d-863cf0b5b33b" />
-* **Overview – Executive Dashboard:**Provides a high-level view of overall business performance through key metrics and summary insights.
+**Overview – Executive Dashboard:**Provides a high-level view of overall business performance through key metrics and summary insights.
+
   
 <img width="1326" height="741" alt="Screenshot 2026-10-05 213648" src="https://github.com/user-attachments/assets/ff9ff2c4-0e04-4955-a834-9c0b9200b14c" />
-* **Sales Trend:** Analyzes sales performance and order trends over time to identify growth patterns and changes in business activity.
+**Sales Trend:** Analyzes sales performance and order trends over time to identify growth patterns and changes in business activity.
+
 
 <img width="1323" height="742" alt="Screenshot 2026-10-05 213713" src="https://github.com/user-attachments/assets/48452282-c6e0-4f6f-84f3-14d9dab4591b" />
-* **Category and Product:**Explores product categories and individual product performance to understand their contribution to overall sales.
+**Category and Product:**Explores product categories and individual product performance to understand their contribution to overall sales.
+
 
 <img width="1326" height="742" alt="Screenshot 2026-10-05 213732" src="https://github.com/user-attachments/assets/80fbd856-b52b-4a5c-9f9a-56b43e38fc01" />
-* **Customer:** Examines customer distribution, purchasing behavior, and customer-related trends.
+**Customer:** Examines customer distribution, purchasing behavior, and customer-related trends.
+
 
 <img width="1152" height="645" alt="Screenshot 2026-10-05 213753" src="https://github.com/user-attachments/assets/8a3ece96-3220-4168-9c7d-7575e9ebf443" />
-* **Delivery & Logistics:** Analyzes order delivery performance, shipping activity, and delivery timelines to evaluate operational efficiency..
+**Delivery & Logistics:** Analyzes order delivery performance, shipping activity, and delivery timelines to evaluate operational efficiency..
+
 
 *The specific metrics and insights depend on the visuals and measures implemented in the dashboard.*
 
